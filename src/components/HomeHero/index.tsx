@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-comment-textnodes */
 import React from 'react';
 import { CodeItem, Container, InfosContainer, TextContainer } from './styles';
 import picture from '../../assets/pessoa.webp';

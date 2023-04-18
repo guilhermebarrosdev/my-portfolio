@@ -8,13 +8,12 @@ function HomeHero() {
       <img src={picture} alt="Minha foto" />
       <div>
         <TextContainer>
-          <h1>Olá</h1>
-          <h2>Me chamo Guilherme</h2>
+          <h1> Olá, </h1>
         </TextContainer>
         <InfosContainer>
           <CodeItem>
-            <span className="comment">// Minha apresentação</span>
-            <span className="purple">Infos</span> {'\u007D'}
+            <span className="comment"> // Minha apresentação </span>
+            <span className="purple">Infos</span> {'\u007B'}
             <div>
               Nome:<span className="blue"> Guilherme,</span>
             </div>
@@ -24,12 +23,12 @@ function HomeHero() {
             {'\u007D'}
           </CodeItem>
           <CodeItem>
-            <span className="purple">Cargo</span> {'\u007D'}
+            <span className="purple">Cargo</span> {'\u007B'}
             <div>
-              Função:<span className="blue"> Dev Front-End,</span>
+              Função:<span className="blue"> Dev Front-End, </span>
             </div>
             <div>
-              Empresa:<span className="blue"> undefined</span>
+              Empresa:<span className="blue"> undefined </span>
             </div>
             {'\u007D'}
           </CodeItem>
